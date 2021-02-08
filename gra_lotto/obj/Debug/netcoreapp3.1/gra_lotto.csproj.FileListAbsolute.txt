@@ -1,0 +1,13 @@
+C:\csharp\gra_lotto_repo\lotto\gra_lotto\bin\Debug\netcoreapp3.1\gra_lotto.exe
+C:\csharp\gra_lotto_repo\lotto\gra_lotto\bin\Debug\netcoreapp3.1\gra_lotto.deps.json
+C:\csharp\gra_lotto_repo\lotto\gra_lotto\bin\Debug\netcoreapp3.1\gra_lotto.runtimeconfig.json
+C:\csharp\gra_lotto_repo\lotto\gra_lotto\bin\Debug\netcoreapp3.1\gra_lotto.runtimeconfig.dev.json
+C:\csharp\gra_lotto_repo\lotto\gra_lotto\bin\Debug\netcoreapp3.1\gra_lotto.dll
+C:\csharp\gra_lotto_repo\lotto\gra_lotto\bin\Debug\netcoreapp3.1\gra_lotto.pdb
+C:\csharp\gra_lotto_repo\lotto\gra_lotto\obj\Debug\netcoreapp3.1\gra_lotto.csprojAssemblyReference.cache
+C:\csharp\gra_lotto_repo\lotto\gra_lotto\obj\Debug\netcoreapp3.1\gra_lotto.AssemblyInfoInputs.cache
+C:\csharp\gra_lotto_repo\lotto\gra_lotto\obj\Debug\netcoreapp3.1\gra_lotto.AssemblyInfo.cs
+C:\csharp\gra_lotto_repo\lotto\gra_lotto\obj\Debug\netcoreapp3.1\gra_lotto.csproj.CoreCompileInputs.cache
+C:\csharp\gra_lotto_repo\lotto\gra_lotto\obj\Debug\netcoreapp3.1\gra_lotto.dll
+C:\csharp\gra_lotto_repo\lotto\gra_lotto\obj\Debug\netcoreapp3.1\gra_lotto.pdb
+C:\csharp\gra_lotto_repo\lotto\gra_lotto\obj\Debug\netcoreapp3.1\gra_lotto.genruntimeconfig.cache
