@@ -101,23 +101,23 @@ namespace gra_lotto
                 Console.WriteLine("\n\nWybierz liczbę od 1 do 49:");
                 Console.WriteLine("{0}/6: ", i+1);
                 bool prawidlowa = int.TryParse(Console.ReadLine(), out liczba);
-                Console.WriteLine(liczba);
-                Console.WriteLine(prawidlowa);
+                //Console.WriteLine(liczba);
+                //Console.WriteLine(prawidlowa);
                 if(prawidlowa && liczba >= 1 && liczba <= 49 && Array.IndexOf(liczby, liczba) == -1)
                 {
                     liczby[i] = liczba;
-                    Console.WriteLine(Array.IndexOf(liczby, liczba));
-                    Console.WriteLine("i= {0}", i);
-                    Console.ReadKey();
+                    //Console.WriteLine(Array.IndexOf(liczby, liczba));
+                    //Console.WriteLine("i= {0}", i);
+                    //Console.ReadKey();
                 }
                 else
                 {
                     Console.WriteLine("Niestety błędna liczba.");
-                    Console.WriteLine(Array.IndexOf(liczby, liczba));
+                    //Console.WriteLine(Array.IndexOf(liczby, liczba));
                     i--;
                     Console.ReadKey();
                 }
-                Array.Sort(liczby);
+                //Array.Sort(liczby);
             }
             return liczby;
         }
